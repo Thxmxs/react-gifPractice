@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gifPractice/static/css/main.d968bece.chunk.css",
+    "main.js": "/react-gifPractice/static/js/main.839df2a0.chunk.js",
+    "main.js.map": "/react-gifPractice/static/js/main.839df2a0.chunk.js.map",
+    "runtime-main.js": "/react-gifPractice/static/js/runtime-main.7d8799e7.js",
+    "runtime-main.js.map": "/react-gifPractice/static/js/runtime-main.7d8799e7.js.map",
+    "static/js/2.896d7120.chunk.js": "/react-gifPractice/static/js/2.896d7120.chunk.js",
+    "static/js/2.896d7120.chunk.js.map": "/react-gifPractice/static/js/2.896d7120.chunk.js.map",
+    "index.html": "/react-gifPractice/index.html",
+    "static/css/main.d968bece.chunk.css.map": "/react-gifPractice/static/css/main.d968bece.chunk.css.map",
+    "static/js/2.896d7120.chunk.js.LICENSE.txt": "/react-gifPractice/static/js/2.896d7120.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d8799e7.js",
+    "static/js/2.896d7120.chunk.js",
+    "static/css/main.d968bece.chunk.css",
+    "static/js/main.839df2a0.chunk.js"
+  ]
+}
