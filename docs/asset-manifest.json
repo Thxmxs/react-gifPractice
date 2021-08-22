@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactPractice-giftApp/static/css/main.d968bece.chunk.css",
+    "main.js": "/reactPractice-giftApp/static/js/main.839df2a0.chunk.js",
+    "main.js.map": "/reactPractice-giftApp/static/js/main.839df2a0.chunk.js.map",
+    "runtime-main.js": "/reactPractice-giftApp/static/js/runtime-main.6340dd5a.js",
+    "runtime-main.js.map": "/reactPractice-giftApp/static/js/runtime-main.6340dd5a.js.map",
+    "static/js/2.896d7120.chunk.js": "/reactPractice-giftApp/static/js/2.896d7120.chunk.js",
+    "static/js/2.896d7120.chunk.js.map": "/reactPractice-giftApp/static/js/2.896d7120.chunk.js.map",
+    "index.html": "/reactPractice-giftApp/index.html",
+    "static/css/main.d968bece.chunk.css.map": "/reactPractice-giftApp/static/css/main.d968bece.chunk.css.map",
+    "static/js/2.896d7120.chunk.js.LICENSE.txt": "/reactPractice-giftApp/static/js/2.896d7120.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6340dd5a.js",
+    "static/js/2.896d7120.chunk.js",
+    "static/css/main.d968bece.chunk.css",
+    "static/js/main.839df2a0.chunk.js"
+  ]
+}
